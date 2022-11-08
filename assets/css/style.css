@@ -121,8 +121,9 @@ input[type=submit]:hover {
   padding: 30px;
 }
 
-#prop {
+.prop {
   text-align: center;
+  font: bold;
 }
 
 #contact {
@@ -133,9 +134,4 @@ input[type=submit]:hover {
   margin-top: 0;
   border: 2px solid red;
   text-align:center;
-}
-
-#item {
-  color: white;
-  font: bolder;
 }
